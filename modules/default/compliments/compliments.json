@@ -1,0 +1,104 @@
+{
+  "anytime": [
+    "💫 Sei la mia persona preferita.",
+    "🌷 Con te ogni giorno è speciale.",
+    "😊 Il tuo sorriso illumina tutto.",
+    "💪 Sei brillante, gentile e fortissima.",
+    "❤️ Orgoglioso di te, sempre.",
+    "✨ Grazie per essere te.",
+    "🌸 Piccole cose con te, grandi felicità.",
+    "🌈 Ti meriti il meglio, oggi e sempre.",
+    "⚡ La tua energia mi ispira.",
+    "🏡 Sei la mia casa."
+  ],
+
+  "morning": [
+    "🌞 Buongiorno, splendore!",
+    "☕ Caffè e abbracci per te.",
+    "🔥 Oggi spacchi tutto, amore.",
+    "💭 Svegliarsi pensando a te è già felicità.",
+    "🌅 Il mondo è più bello quando ti alzi tu."
+  ],
+
+  "afternoon": [
+    "🌻 Stai andando alla grande!",
+    "💆‍♀️ Pausa respiro: sei bravissima.",
+    "🚀 Continua così, sono con te.",
+    "🏃‍♀️ Ogni passo è un traguardo.",
+    "💖 Sei luce anche a metà giornata."
+  ],
+
+  "evening": [
+    "🌇 Giornata intensa? Sei stata super.",
+    "🛋️ Meriti solo relax e coccole.",
+    "🌙 Sono fiero di te, oggi e ogni giorno.",
+    "😊 Chiudiamo la giornata con un sorriso.",
+    "🍷 Con te la sera è più dolce."
+  ],
+
+  "day_sunny": [
+    "☀️ Sole fuori, sole dentro: tu.",
+    "😎 Giornata luminosa come te.",
+    "🌻 Con questo sole risplendi ancora di più."
+  ],
+
+  "day_cloudy": [
+    "🌤️ Nuvole fuori, luce dentro: la tua.",
+    "🎨 Anche col cielo grigio, tu colori tutto.",
+    "☁️ Le nuvole passano, tu resti brillante."
+  ],
+
+  "cloudy": [
+    "☁️ Ombra fuori, luce dentro: sei tu.",
+    "🌈 Il cielo è grigio, ma tu sei arcobaleno.",
+    "🍵 Perfetta giornata per abbracci e tè."
+  ],
+
+  "rain": [
+    "🌧️ Piove? Balliamo sotto la pioggia (metaforica).",
+    "💧 Gocce fuori, serenità dentro con te.",
+    "🌦️ Dopo la pioggia, il tuo sole."
+  ],
+
+  "drizzle": [
+    "🌦️ Pioggerellina dolce, come te.",
+    "🩵 Giornata soft: prendersi cura di sé.",
+    "☔ Passerà presto, come ogni nube."
+  ],
+
+  "snow": [
+    "❄️ Neve e magia — tu sei entrambe.",
+    "🧣 Giorno da coperta, film e te.",
+    "☃️ Fiocchi fuori, calore dentro."
+  ],
+
+  "thunderstorm": [
+    "⚡ Tu sei più forte di ogni tempesta.",
+    "🌩️ Tuoni fuori, calma dentro di te.",
+    "🌤️ Dopo i lampi, il sereno — come il tuo sorriso."
+  ],
+
+  "fog": [
+    "🌫️ Se c’è nebbia, ti tengo la mano.",
+    "🧭 Quando è tutto sfocato, tu sei la mia rotta.",
+    "🚶‍♀️ Piano piano: ogni passo con te è sicuro."
+  ],
+
+  "windy": [
+    "🌬️ Vento forte? Tu sei più determinata.",
+    "🍃 Lascia volare i pensieri: restiamo leggeri.",
+    "🌀 Con te, anche il vento cambia direzione."
+  ],
+
+  "night_clear": [
+    "🌌 Cielo limpido, stelle e tu.",
+    "🌙 La luna ti somiglia: illumini piano, ma ovunque.",
+    "💤 Buonanotte, amore mio."
+  ],
+
+  "night_cloudy": [
+    "☁️🌙 Nuvole notturne, sogni sereni.",
+    "⭐ Anche senza stelle, tu brilli.",
+    "😴 Riposa: domani sarà bellissimo."
+  ]
+}

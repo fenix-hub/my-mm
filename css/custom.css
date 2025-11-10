@@ -1,0 +1,120 @@
+/* ================================================
+   🌸 CUTE MAGIC MIRROR THEME — pastel pink edition
+   Fonts: Pacifico (headings), Playwrite IT Moderna (body)
+   Author: You 💖
+   ================================================ */
+
+/* 1️⃣ Load Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+
+/* 2️⃣ Reset & global font override */
+html, body, * {
+  font-family: "Playwrite IT Moderna", "Pacifico";
+  font-weight: 300;
+  box-sizing: border-box;
+}
+
+/* 3️⃣ Background & general look */
+body {
+  
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+/* 4️⃣ Module containers (subtle glass effect) */
+.region .module {
+
+}
+
+/* 5️⃣ Module headers (Pacifico font) */
+.module .header,
+.calendar .header {
+  font-family: "Pacifico", cursive !important;
+  font-size: 26px;
+  font-weight: 400;
+  color: #c05885;
+  letter-spacing: 0.5px;
+  text-shadow: 0 1px 0 rgba(255,255,255,0.6);
+  text-align: left;
+}
+
+/* 6️⃣ Clock styling */
+.clock .time {
+  font-family: "Pacifico", cursive !important;
+  font-size: 68px;
+  font-weight: 400;
+  color: #b84c7c;
+  text-shadow: 0 2px 0 rgba(255,255,255,0.4);
+  text-align: left;
+}
+.clock .date {
+  font-family: "Playwrite IT Moderna", sans-serif !important;
+  font-size: 22px;
+  opacity: 0.85;
+  color: #6e5968;
+}
+
+/* 7️⃣ Weather styling */
+.weather .bright {
+  color: #a74778 !important;
+}
+.weather .normal {
+  color: #5f4b56 !important;
+}
+.weather .light {
+  color: #c97da1 !important;
+}
+.weather .dayName,
+.weather .max-temp,
+.weather .min-temp {
+  font-family: "Playwrite IT Moderna", sans-serif !important;
+}
+
+/* 8️⃣ Calendar styling */
+.calendar .event {
+  color: #4a3b45;
+  font-size: 18px;
+}
+.calendar .symbol {
+  color: #c05885;
+}
+
+.module.compliments {
+  margin-top: 2.3rem;
+  margin-bottom: 0 !important;
+}
+
+.compliments-custom {
+  font-size: 2.3rem;
+}
+
+/* 🔟 Background slideshow dimming for legibility */
+.region.fullscreen.below {
+  filter: brightness(1.03) saturate(0.95);
+}
+
+/* 1️⃣1️⃣ Spotify / bottom widgets (if used) */
+.region.bottom.center {
+  background: rgba(255, 240, 247, 0.4);
+  border-radius: 12px;
+}
+
+/* 1️⃣2️⃣ Responsiveness for smaller displays */
+@media (max-width: 1024px) {
+  .clock .time { font-size: 52px; }
+  
+  .module .header { font-size: 22px; }
+}
+
+/* 1️⃣3️⃣ Optional animations — soft fade on load */
+body {
+  animation: fadeInSoft 1.5s ease-in-out;
+}
+@keyframes fadeInSoft {
+  from { opacity: 0; filter: blur(4px); }
+  to { opacity: 1; filter: blur(0); }
+}
+
+/* 1️⃣4️⃣ Scrollbars hidden (clean look) */
+::-webkit-scrollbar { width: 0 !important; }
+
